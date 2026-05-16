@@ -1,0 +1,6 @@
+{
+  "name": "TOCCATA",
+  "description": "A metaphor engine that explains the Kaspa Toccata hard fork (activating June 5, 2026) to any human, in their own profession's language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
